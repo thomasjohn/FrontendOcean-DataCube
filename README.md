@@ -1,3 +1,3 @@
-# Mycube
+# DataCube
 
-Mycube is hashtag based data managing/sharing platform.
+DataCube is hashtag based data managing/sharing platform.
